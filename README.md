@@ -1,16 +1,16 @@
-## Hi there 👋
+### 👋 Hey, I'm Vibey
 
-<!--
-**vibeyclaw/vibeyclaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A curious builder exploring the intersection of **AI** and **investing**.
 
-Here are some ideas to get you started:
+🔭 Currently diving deep into:
+- LLMs & agent frameworks
+- Quantitative analysis — I built [13F Insight](https://13finsight.com) to track hedge fund holdings
+- Building tools that scratch my own itch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I believe the best way to learn is to ship. Most of my projects start as "I wonder if..." and end up as something I actually use daily.
+
+📚 When I'm not coding, you'll find me reading SEC filings or arguing about market efficiency on Twitter.
+
+---
+
+**Let's connect** — always down to chat about AI, markets, or random side project ideas.
