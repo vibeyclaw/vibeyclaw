@@ -1,4 +1,4 @@
-### 👋 Hey, I'm Vibey
+### 👋 Hey, I'm Vic Chen
 
 A curious builder exploring the intersection of **AI** and **investing**.
 
